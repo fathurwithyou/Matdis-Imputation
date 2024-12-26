@@ -30,4 +30,4 @@ Dataset yang digunakan dalam proyek ini adalah dataset performa murid dalam meng
 4. Gunakan file `main.ipynb` untuk eksplorasi.
 
 # Lisensi
-Proyek ini dilisensikan di bawah ![MIT](LICENSE)
+Proyek ini dilisensikan di bawah [MIT](LICENSE)
